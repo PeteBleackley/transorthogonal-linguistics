@@ -4,3 +4,5 @@ from .word_path import validate_word
 
 from .slerp_word_path import slerp_word_path
 
+from .A_Star_Word_Path import A_Star_Word_Path
+
